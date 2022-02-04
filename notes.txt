@@ -1,0 +1,6 @@
+In React: Hooks are only used in functional components, not in classes.
+A pure function is a function where return value is only determined by its input values. 
+You always get the same outcome you put in.
+
+rcc = react class component
+rfc = react functional component
